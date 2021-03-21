@@ -1,12 +1,15 @@
 {
   "main.css": "static/css/main.50a4e588.css",
   "main.css.map": "static/css/main.50a4e588.css.map",
-  "main.js": "static/js/main.b3c46d07.js",
-  "main.js.map": "static/js/main.b3c46d07.js.map",
-  "static/js/0.1bf81589.chunk.js": "static/js/0.1bf81589.chunk.js",
-  "static/js/0.1bf81589.chunk.js.map": "static/js/0.1bf81589.chunk.js.map",
-  "static/js/1.e795dbf9.chunk.js": "static/js/1.e795dbf9.chunk.js",
-  "static/js/1.e795dbf9.chunk.js.map": "static/js/1.e795dbf9.chunk.js.map",
+  "main.js": "static/js/main.cebaf599.js",
+  "main.js.map": "static/js/main.cebaf599.js.map",
+  "static/js/0.b05f3be9.chunk.js": "static/js/0.b05f3be9.chunk.js",
+  "static/js/0.b05f3be9.chunk.js.map": "static/js/0.b05f3be9.chunk.js.map",
+  "static/js/1.292e1ce7.chunk.js": "static/js/1.292e1ce7.chunk.js",
+  "static/js/1.292e1ce7.chunk.js.map": "static/js/1.292e1ce7.chunk.js.map",
+  "static/js/2.d5ec5c5a.chunk.js": "static/js/2.d5ec5c5a.chunk.js",
+  "static/js/2.d5ec5c5a.chunk.js.map": "static/js/2.d5ec5c5a.chunk.js.map",
   "static\\media\\Christmas_tree_icon.png": "static/media/Christmas_tree_icon.24bca79c.png",
+  "static\\media\\voice-over.svg": "static/media/voice-over.ea61feae.svg",
   "static\\media\\wrong.png": "static/media/wrong.7cc3a476.png"
 }
